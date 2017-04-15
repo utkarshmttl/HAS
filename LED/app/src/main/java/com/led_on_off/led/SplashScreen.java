@@ -3,9 +3,6 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 
-/**
- * Created by PEACE on 3/30/2016.
- */
 public class SplashScreen extends Activity {
 
     @Override

@@ -123,7 +123,7 @@ public class MainActivity extends AppCompatActivity{
             i.putExtra(AlarmClock.EXTRA_HOUR, Integer.valueOf(hour));
             i.putExtra(AlarmClock.EXTRA_MINUTES, Integer.valueOf(minutes));
             startActivity(i);
-            speak("Setting alarm to ring at " + hour + ":" + minutes);
+//            speak("Setting alarm to ring at " + hour + ":" + minutes);
         }
     }
 }
